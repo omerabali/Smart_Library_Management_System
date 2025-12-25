@@ -14,7 +14,7 @@
 | Geliştirici | GitHub | LinkedIn |
 | :--- | :--- | :--- |
 | **Murat Aydoğan** | [🔗 murataydogan](https://github.com/murataydogan) | [🔗 LinkedIn](https://www.linkedin.com/in/murat-aydo%C4%9Fan-51587b298/) |
-| **Kerem Yıldız** | [🔗 KLU1230505031](https://github.com/KLU1230505031) | [🔗 LinkedIn](https://www.linkedin.com/in/kerem-y%C4%B1ld%C4%B1z-ba4bb1362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
+| **Kerem Yıldız** | [🔗 yldz1kerem](https://github.com/yldz1kerem) | [🔗 LinkedIn](https://www.linkedin.com/in/kerem-y%C4%B1ld%C4%B1z-ba4bb1362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
 | **Ömer Abalı** | [🔗 omerabali](https://github.com/omerabali) | [🔗 LinkedIn](https://www.linkedin.com/in/omerabali/) |
 
 ---
